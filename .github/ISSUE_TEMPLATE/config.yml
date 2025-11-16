@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Question or Discussion
+    url: https://github.com/orgs/SynoCP/discussions
+    about: Ask questions or start discussions about the project
+  - name: Security Issue
+    url: https://github.com/SynoCP/.github/security/advisories/new
+    about: Report a security vulnerability (private disclosure)
